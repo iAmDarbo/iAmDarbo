@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iAmDarbo
 - 👀 I’m interested in learning to code and cyber security.
 - 🌱 I’m currently learning on FreeCodeCamp & TryHackMe
-- 💞️ I’m looking to collaborate on anything worthy of a newbie working on it.
+- 💞️ I’m looking to collaborate on anything worthy of a newbie working on.
 - 📫 How to reach me just send a message!
 
 <!---
